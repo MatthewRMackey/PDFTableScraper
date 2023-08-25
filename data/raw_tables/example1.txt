@@ -1,0 +1,86 @@
+
+Trimmed Page 0
+
+description,unit,2019,2020,2021
+Energy Efficiency,Times Comparison,N/A,N/A,2
+Computing Power,Times Comparison,N/A,N/A,5
+Average Annual PUE,Ratio,N/A,N/A,1.1
+Operational GHG Emissions After Compensation,Percentage,N/A,N/A,0
+Waste Diverted,Percentage,N/A,N/A,78
+Components Refurbished,Percentage,N/A,N/A,27
+Components Resold,Amount,N/A,N/A,4900000
+
+Trimmed Page 1
+
+description,unit,2019,2020,2021,2022,2023
+GHG emissions reports,% of new flagship consumer hardware products,N/A,100%,100%,N/A,N/A
+Materials Use recycled or renewable material in consumer hardware product portfolio,% of plastic used across,N/A,N/A,N/A,%50,N/A
+Materials Eliminate plastic from packaging,product packaging,N/A,N/A,100%,100%,N/A
+Materials Include recycled materials in consumer hardware products,% of Google consumer hardware products,N/A,100%,100%,100%,N/A
+Waste Achieve UL 2799 Zero Waste to Landfill certification,% of hardware manufacturing sites,N/A,N/A,varies,%100,N/A
+Tools Help cities reduce carbon emissions,Gigatons of carbon emissions,N/A,N/A,0.04,1,N/A
+Products Help people make more sustainable choices,Number of people in billions,N/A,N/A,0,%1,N/A
+
+Trimmed Page 2
+
+description,unit,2017,2018,2019,2020,2021
+GHG EMISSIONS Scope 1,tCO2e,66,549,63,521,66,686,38,694,45,073
+GHG EMISSIONS Scope 2 (market-based),tCO2e,509,334,684,236,794,267,911,415,1,823,132
+GHG EMISSIONS Scope 2 (location-based),tCO2e,3,301,392,4,344,686,5,116,949,5,865,095,6,576,239
+GHG EMISSIONS Scope 3 (total),tCO2e,2,719,024,12,900,467,11,669,000,9,376,000,9,503,000
+GHG EMISSIONS Scope 3 (business travel and employee commuting including teleworking),tCO2e,356,060,463,467,542,000,213,000,136,000
+GHG EMISSIONS Scope 3 (other),tCO2e,2,362,964,12,437,000,11,127,000,9,163,000,9,367,000
+Total (Scope 1, 2 (market-based), and 3 (total)),tCO2e,3,294,907,13,648,224,12,529,953,10,326,109,11,371,205
+Biogenic emissions,tCO2,14,708,22,862,21,905,5,417,3,797
+Operational emissions35 Scope 1, 2 (market-based), and 3 (business travel and employee commuting including teleworking),tCO2e,931,943,1,211,224,1,402,953,1,163,109,2,004,205
+Operational emissions35 Scope 1, 2 (location-based), and 3 (business travel and employee commuting including teleworking),tCO2e,3,724,001,4,871,674,5,725,635,6,116,789,6,757,312
+Total emissions reduced by renewable energy PPAs and compensated for by carbon credits,tCO2e,-3,724,001,-4,871,674,-5,725,635,-6,116,789,-6,757,312
+Emissions reduced by renewable energy PPAs,tCO2e,-2,792,058,-3,660,450,-4,322,682,-4,953,680,-4,753,107
+Emissions compensated for by carbon credits,tCO2e,-931,943,-1,211,224,-1,402,953,-1,163,109,-2,004,205
+Total operational GHG emissions (after emissions reductions and compensations),tCO2e,0,0,0,0,0
+Carbon intensity per unit of revenue,tCO2e/million US$,5.19,5.47,5.32,5.21,7.25
+Carbon intensity per FTE employee,tCO2e/FTE,7.60,8.36,7.96,7.49,12.87
+Carbon intensity per megawatt-hour of energy consumed,tCO2e/MWh,0.0717,0.0707,0.0675,0.0615,0.1006
+
+Trimmed Page 3
+
+description,unit,2017,2018,2019,2020,2021
+Energy use - Energy consumption,MWh,8029409,10572485,12749458,15439538,18571659
+Energy use - Total electricity consumption,MWh,7609089,10104295,12237198,15138543,18287143
+Energy use - Electricity consumption (U.S.),MWh,5533783,7085620,8489242,10789194,12903398
+Energy use - Electricity consumption (international),MWh,2075306,3018675,3747956,4349349,5383745
+Energy efficiency - Average annual fleet-wide PUE across Google data centers,PUE,1.11,1.11,1.10,1.10,1.10
+Renewable energy - Renewable energy contracts (cumulative),MW,2960,3837,5401,5746,7233
+Renewable energy - Total renewable electricity purchased,MWh,7609089,10104295,12237198,15138543,18287143
+Renewable energy - Renewable electricity (PPAs and on-site),MWh,6244788,8246508,9721283,12076382,14118248
+Renewable energy - Renewable electricity (grid),MWh,1364301,1857787,2515915,3062161,4168895
+Renewable energy - Electricity purchased from renewable sources,%,100,100,100,100,100
+Renewable energy - Carbon-free energy across Google data centers (hourly),%,N/A,N/A,61,67,66
+Waste generated - Waste generated,Metric tons,53363,57113,48126,28864,28153
+Waste diversion - Total landfill diversion rate,%,83,80,77,77,77
+Waste diversion - Landfill diversion rate (data centers),%,91,87,90,81,78
+Waste diversion - Landfill diversion rate (offices),%,78,76,71,71,64
+Waste diversion - Pre-consumer food waste prevented in cafés (cumulative),kg,1990868,3019252,4152872,4439479,4439479
+Data center hardware refurbishment and reuse - Components used for server upgrades that were refurbished inventory,%,11,19,19,23,27
+Data center hardware refurbishment and reuse - Components resold into the secondary market,Million components,2.1,3.4,9.9,8.2,4.9
+Operational water - Water withdrawal,Million gallons,3071,4170,5161,5689,6297
+Operational water - Water consumption,Million gallons,N/A,N/A,3412,3749,4562
+Operational water - Water discharge,Million gallons,N/A,N/A,1749,1940,1735
+
+Trimmed Page 4
+
+description,unit,2017,2018,2019,2020,2021
+Green building certifications LEED-certified office space (cumulative),m2,1034875,129416150,1438257,1557606,1704922
+Green building certifications Platinum (cumulative),%,28,29,29,27,26
+Green building certifications Gold (cumulative),%,56,57,56,58,60
+Green building certifications Certified and Silver (cumulative),%,16,14,15,15,14
+Sustainable commuting EV charging ports at offices in the United States and Canada (cumulative),Ports,2077,2722,3419,3617,3998
+Sustainable commuting Emissions avoided due to employee EV commuting in the United States and Canada,tCO2e,2891,4103,6258,1892,3468
+Sustainable commuting Employee shuttle commuting trips in the Bay Area,Million trips,3.8,4.0,4.3,0.7,0.1
+Sustainable commuting Employee shuttle riders in the Bay Area (peak daily),Unique riders,10000,11000,11900,11700,1664
+Sustainable commuting Emissions avoided due to employee shuttle trips in the Bay Area,tCO2e,33241,40309,43242,7000,881
+Urban ecology Native trees planted on our Bay Area campuses (cumulative),Trees,1411,1602,2191,2191,2509
+Urban ecology Native habitat restored and created on our Bay Area campuses (cumulative),Acres,7,9,12,12,15
+Beyond our operations Investments Equity investments in renewable energy Combined renewable energy capacity (cumulative),GW,3.7,3.7,3.7,3.7,3.7
+Beyond our operations Technology Tools Cities and regions covered by the Environmental Insights Explorer (cumulative),Cities and regions,N/A,5,117,3000,41700
+Beyond our operations Technology Products Household energy saved by Nest thermostat customers (cumulative),GWh,17480,28994,47020,65153,86711

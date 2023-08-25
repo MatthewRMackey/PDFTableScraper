@@ -1,0 +1,114 @@
+
+Trimmed Page 0
+
+description,unit,2019,2020,2021,2022,2023
+Refinery Scope 1 and 2 GHG emissions reduction,path, N/A, N/A, N/A,N/A,100%
+Renewable Diesel Annual Production capacity,gal, N/A, N/A, N/A,1200000000, N/A
+Renewable Naphtha Annual Production capacity,gal, N/A, N/A, N/A,50000000, N/A
+Life Cycle GHG emissions reduction in Renewable Diesel,% ,N/A, N/A, N/A,80%, N/A
+Corn Ethanol Annual Production capcity,gal,N/A, N/A, N/A,1600000000, N/A
+GHG emissions reduction in Corn Ethanol compared with gasoline,% ,30%, N/A, N/A, N/A, N/A
+distillers grains Annual Production capcity,tons, N/A, N/A, N/A,4200000, N/A
+
+Trimmed Page 1
+
+description,unit,2021,2035
+Refinery GHG Emissions after Reductions & Displacements (Scope 1 & 2),% Reduction,N/A,100
+GHG Emissions Displaced by Global Blending of and Credits from Low-carbon Fuels,Million Metric Tons CO2e,N/A,10.9
+GHG Emissions Displaced by VLO Ethanol Production,Million Metric Tons CO2e,N/A,4.2
+GHG Emissions Displaced by VLO Renewable Diesel Production,Million Metric Tons CO2e,N/A,11.1
+Emissions Reduction through Efficiencies (Scope 1 & 2),Million Metric Tons CO2e,N/A,2.4
+Refinery GHG Emissions in 2011 (Scope 1 & 2),Million Metric Tons CO2e,32.3,N/A
+GHG Emissions Reduced by Carbon Capture and Storage,Million Metric Tons CO2e,N/A,3.7
+Global Refinery Scope 1 and 2 GHG emissions,% Reduction,11.5,63
+Refinery Scope 1 and 2 GHG emissions,Million Metric Tons CO2e,28.5,N/A
+
+Trimmed Page 2
+
+description,unit,2019,2020,2021,2022,2023
+Refinery Scope 1 and 2 GHG Emissions Reduction Target,%,N/A,N/A,N/A,N/A,N/A
+Low-Carbon Investments,% of growth capital,N/A,N/A,70%,N/A,N/A
+Renewable Diesel Production Capacity,million gallons,N/A,N/A,700,N/A,N/A
+Renewable Naphtha Production Capacity,million gallons,N/A,N/A,30,N/A,N/A
+Renewable Diesel Projected Production Capacity,million gallons,N/A,N/A,N/A,1200,N/A
+Renewable Naphtha Projected Production Capacity,million gallons,N/A,N/A,N/A,50,N/A
+Investment in Low-Carbon Fuels Business,Billion USD,N/A,N/A,4.65,N/A,N/A
+
+
+Trimmed Page 3
+
+False
+
+Trimmed Page 4
+
+description,unit,2021,2022
+Gasoline vehicle emission,Tons CO2,6,N/A
+Battery Electric Vehicle emission,Tons CO2,12,N/A
+Battery Electric Vehicle battery metal price,Concerns,N/A,Significant increase
+Battery Electric Vehicle global supply chain,China's dominance,N/A,Preserved
+Battery Electric Vehicle infrastructure build-out CO2 emissions,Amount,Large,N/A
+Battery Electric Vehicle electricity generation dependency,On fossil fuels,Yes,Yes
+
+Trimmed Page 5
+
+description,unit,2021
+Global Refinery Scope 1 and 2 GHG emissions reduction/displacement target,percentage,63
+Production capacity of renewable diesel,million gallons per year,1170
+
+Trimmed Page 6
+
+False
+
+Trimmed Page 7
+
+False
+
+Trimmed Page 8
+
+False
+
+Trimmed Page 9
+
+description,unit,2018,2019,2020,2021
+GLOBAL REFINERY GHG Emissions Scope 1,Million metric tons CO2e,N/A,25.4,24.8,23.0
+GLOBAL REFINERY GHG Emissions Scope 2,Million metric tons CO2e,N/A,5.0,4.7,4.5
+GLOBAL REFINERY NOx,Metric Tons,9000,8700,7900,8400
+GLOBAL REFINERY SOx,Metric Tons,7700,8800,7600,7600
+GLOBAL REFINERY VOCs,Metric Tons,10300,7700,7500,7500
+
+Trimmed Page 10
+
+False
+
+Trimmed Page 11
+
+False
+
+Trimmed Page 12
+
+False
+
+Trimmed Page 13
+
+description,unit,2021
+Gross global Scope 1 emissions,million metric tons CO2e,123.7
+Coverage under emissions-limiting regulations,% ,100
+NOx emissions,metric tons,8400
+SOx emissions,metric tons,7600
+VOC emissions,metric tons,7500
+Fresh water withdrawn,million m3,175
+Percentage of water recycled,% ,1717
+Percentage of water in regions with High or Extremely High Baseline Water Stress,% ,18.7
+Hazardous waste generated,metric tons,50400
+Recycled hazardous waste without incineration,% ,27
+Recycled hazardous waste with incineration of waste fuels,% ,55
+
+Trimmed Page 14
+
+description,unit,2019,2020,2021
+Global Refinery GHG Emissions Scope 1,N/A,N/A,N/A,N/A
+Global Refinery GHG Emissions Scope 2,N/A,N/A,N/A,N/A
+
+Trimmed Page 15
+
+False
